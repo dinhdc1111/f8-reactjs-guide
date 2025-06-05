@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&family=Roboto+Condensed:wght@400;700&display=swap");
+
+body {
+  font-family: "Quicksand", sans-serif;
+  background-color: #000000;
+  color: #fffbf4;
+  padding-left: 20px;
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+}
+h1, h2 {
+  font-weight: 700;
+  color: #fffbf4;
+}
+
+li {
+  
+  margin: 0.5rem 0;
+  color: #ffffff;
+}
